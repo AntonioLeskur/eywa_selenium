@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: eywa-client
+Version: 0.2.0
+Summary: Eywa package - manages async operations and more.
+Author-email: Robert Gersak <robi@neyho.com>
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+
+# Examples
+To run some example position terminal/cmd to root project folder and run
+```
+python -m examples.webdriver
+```
+

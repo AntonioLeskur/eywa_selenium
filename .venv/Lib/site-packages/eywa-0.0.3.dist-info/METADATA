@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: eywa
+Version: 0.0.3
+Summary: Framework for conversational AI
+Home-page: https://github.com/farizrahman4u/eywa
+Author: Fariz Rahman
+Author-email: farizrahman4u@gmail.com
+License: GNU GPL v2
+Platform: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: dateparser
+Requires-Dist: requests
+Requires-Dist: scipy
+Requires-Dist: annoy
+
+UNKNOWN
+
+
